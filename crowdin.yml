@@ -1,6 +1,5 @@
 export_languages:
-  - english
-  - spanish
+  - es-ES
 files:
   - source: /admin/includes/languages/lang.english.php
     translation: /admin/includes/languages/lang.%language%.php
